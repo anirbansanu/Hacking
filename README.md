@@ -13,20 +13,15 @@ And run the **Hacker.py** File.
 
 Currently this program has several features such as:
 
-* Multi-client support
 * Cross-platform server
-* AES-128 Encryption
-* Built-in keylogger
 * Ability to send commands to all clients
 * Ability to capture screenshots
 * Ability to upload/download files
 * Ability to send messages
-* Ability to run at startup
 * Ability to browse files
 * Ability to dump user info
 * Ability to open remote cmd
 * Ability to open remote python interpreter
-* Ability to disable task manager
 * Ability to shutdown/restart/lock pc
 * Ability to melt file on startup
 * Checking for multiple instances
