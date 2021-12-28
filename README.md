@@ -28,12 +28,15 @@ Currently this program has several features such as:
 * VM/sandboxie check
 * And more...
 
-'''python
+## Modules Used in Backdoor
+
+```python
 import socket
 import os
 import subprocess
 import time
-from threading import * '''
+from threading import * 
+```
 
 ## Disclaimer
 
