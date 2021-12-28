@@ -28,6 +28,12 @@ Currently this program has several features such as:
 * VM/sandboxie check
 * And more...
 
+'''python
+import socket
+import os
+import subprocess
+import time
+from threading import * '''
 
 ## Disclaimer
 
